@@ -1,1 +1,9 @@
 # Yes_Bank_Stock_Closing_Price_Prediction_ML_Project
+
+This research seeks to handle the difficulty of forecasting the closing price of Yes Bank's stock, which is critical for stakeholders, investors, and market participants. Yes Bank, a renowned private sector bank in India, has had considerable challenges in recent years, including a large number of failed loans and involvement in fraudulent cases. These issues have resulted in regulatory involvement by the Reserve Bank of India, making stock price predictions for Yes Bank complex and unclear.
+
+To address this issue, the initiative employs a comprehensive dataset that includes monthly stock price data from the bank's establishment. The dataset contains a variety of relevant indicators, including the closing, starting, highest, and lowest prices for each month. The goal is to create prediction models that can accurately capture the detailed dynamics and trends in Yes Bank's stock prices while accounting for the turbulent events and uncertainties connected with the bank's performance.
+
+The project entails using a variety of modelling tools, including time series models and regression algorithms. The objective is to assess the efficacy of these models in properly projecting the closing price of Yes Bank shares. Furthermore, the models will be evaluated on their capacity to account for the impact of key events, such as fraud prosecutions involving the bank's founders or regulatory interventions by the Reserve Bank of India.
+
+By accurately predicting the closing price of Yes Bank's stock, this initiative can provide useful information and help stakeholders make informed decisions about their bank investments. It seeks to negotiate the intricacies and uncertainties of Yes Bank's stock prices, thereby contributing to a better understanding of the company's financial performance and enabling more effective decision-making.
